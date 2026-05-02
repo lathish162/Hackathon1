@@ -1,0 +1,3 @@
+ExtendedData/Data/0/value,ExtendedData/Data/0/_name,ExtendedData/Data/1/value,ExtendedData/Data/1/_name,ExtendedData/Data/2/value,ExtendedData/Data/2/_name,ExtendedData/Data/3/value,ExtendedData/Data/3/_name,longitude,latitude,ExtendedData/Data/4/value,ExtendedData/Data/4/_name,ExtendedData/Data/5/value,ExtendedData/Data/5/_name
+node/11505830446,@id,yes,access,drinking_water,amenity,yes,fee,77.6203916,12.9537213,,,,
+node/12163099769,@id,permissive,access,drinking_water,amenity,yes,bottle,77.5972774,12.9442542,yes,indoor,0,level

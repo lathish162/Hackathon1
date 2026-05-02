@@ -1,0 +1,12 @@
+_name,_type
+RR No.,string
+Energy Meter Latitude,string
+Energy Meter Longitude,string
+Pole No.,string
+Pole Latitude,float
+Pole Longitude,float
+Type,string
+No. of Lights,string
+Road Category,string
+Rated Wattage,string
+Rated Wattage (Proposed),string
